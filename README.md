@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thigszin
+- 👋 Hi, I’m @0thigs
 - 👀 I’m interested in Programming, Games, and Animes
 - 🌱 I’m currently learning JavaScript, NodeJs, ReactJs and Python
 - 📫 You can Follow me on Instagram: https://www.instagram.com/thigszin/
