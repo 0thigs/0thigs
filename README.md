@@ -1,4 +1,4 @@
- ##
+
  
  <h1 align="center">Hello, I'm <a href="https://www.instagram.com/thigszin/">@Thigszin</a>😃</h1>
  
@@ -17,8 +17,6 @@
   <img align="center" alt="Thigs-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Thigs-Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Thigs-MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  
-  ##
     
   <h3>My Social Medias👇</h3>
   <div style="display: inline_block"><br>
