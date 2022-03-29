@@ -1,6 +1,6 @@
 
  
- <h1 align="center">Hello, I'm <a href="https://www.instagram.com/thigszin/">@Thigszin</a>😃</h1>
+ <h1 align="center">Hello, I'm <a href="https://www.instagram.com/thigszin/" target="_blank">@Thigszin</a>😃</h1>
  
  <div align="center">
   <a href="https://github.com/0thigs">
