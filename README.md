@@ -41,11 +41,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0thigs&theme=tokyonight&border_radius=10" alt="GitHub Streak Stats">
-</div>
-
-
 
 ---
 
